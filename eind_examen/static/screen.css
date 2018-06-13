@@ -1,0 +1,156 @@
+/* START ALGEMENE CSS */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Courier", sans-serif;
+    color: #CCC;
+    background-color: #369;
+    height: 100%
+}
+
+h1 {
+    color: #FFF;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+}
+
+main {
+    padding: 1em;
+}
+
+nav ul, nav li {
+    list-style: none;
+}
+
+nav ul {
+    background-color: #6079A1;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+
+nav a {
+    display: block;
+    padding: 1em 2em;
+    color: white;
+}
+
+a, a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+/* EINDE ALGEMENE CSS */
+
+/* START CSS: INDEX EN PLANEET */
+
+form {
+    margin-bottom: 1rem;
+}
+
+table, td, th {
+    border: 1px solid grey;
+    font-size: 0.9rem;
+}
+
+td, th {
+    padding: 0.2em 1em;
+    text-align: center;
+}
+
+th {
+    background-color: #A7BB70;
+    color: white;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+input[type=submit] {
+    padding: 0 1rem;
+}
+
+/* EIND CSS: INDEX EN PLANEET */
+
+/* START CSS: PLANEET */
+.data {
+    width: 50%;
+}
+
+.data td, .data th {
+    text-align: left;
+}
+
+.data th:first-letter {
+    text-transform: capitalize;
+}
+
+/* EIND CSS: PLANEET */
+
+/* START CSS: SCRIPT Pagina*/
+
+.script {
+    overflow: auto;
+    background-color: black;
+}
+
+#planeten {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    height: 700px;
+    position: relative;
+}
+
+.planeet {
+    border-radius: 50%;
+    text-align: center;
+    margin: 10px;
+    background-size: cover;
+    color: white;
+}
+
+#manen {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: rgba(255, 0, 0, 0.5);
+    width: 200px;
+}
+
+#Mercurius {
+    background-image: url(images/Mercurius.jpg);
+}
+
+#Venus {
+    background-image: url(images/Venus.jpg);
+}
+
+#Aarde {
+    background-image: url(images/Aarde.jpg);
+}
+
+#Mars {
+    background-image: url(images/Mars.jpg);
+}
+
+#Jupiter {
+    background-image: url(images/Jupiter.jpg);
+}
+
+#Saturnus {
+    background-image: url(images/Saturnus.jpg);
+}
+
+#Uranus {
+    background-image: url(images/Uranus.jpg);
+}
+
+#Neptunus {
+    background-image: url(images/Neptunus.jpg);
+}
+
+/* EIND CSS: SCRIPT Pagina*/

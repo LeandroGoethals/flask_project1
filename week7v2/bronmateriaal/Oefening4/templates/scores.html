@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        {%   for deelscore in  scores[0] %}
+            {% if loop.first %}
+                <th>Naam</th>
+            {% else %}
+                <th>Test {{ loop.index - 1 }}</th>
+            {% endif %}
+        {% endfor %}
+    </tr>
+    {% for score in scores %}
+        <tr>
+            {% for deelscore in score %}
+                {% if loop.first %}
+                    <td><a href=">{{url_for("toonScore", naam = deelscore }}"</a></td>
+                {% else %}
+                    <td>{{ deelscore }}</td>
+                {% endif %}
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

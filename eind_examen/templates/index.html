@@ -1,0 +1,18 @@
+{% extends "template.html" %}
+{% block body %}
+    <table class="table table-black">
+        {% for elke_plan in data %}
+            {% for col in columns %}
+
+                <tb> cols[0]</tb>
+            {% endfor %}
+            <tr>
+                {%  for elk_gegeven in elke_plan %}
+                    <td>{{ str(elk_gegeven)|truncate(100)}}</td>
+
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endblock %}

@@ -1,0 +1,32 @@
+<div id="planeten" class="script">
+    <div id="manen"></div>
+</div>
+<script>
+
+    let parko = 'static/script/manen.json';
+
+    function getParkoData() {
+    console.info("get the datha...");
+    let xmlhttp = new XMLHttpRequest();
+    xmlhttp.open("get", parko);
+    xmlhttp.send();
+    xmlhttp.addEventListener("readystatechange", function() {
+        console.info(this.status);
+        if (this.readyState == 4 && this.status == 200) {
+            response = convertXML2JSON(this.responseText);
+            console.info(response);
+            data_schrijven;
+        }
+    });
+    xmlhttp.addEventListener("error", function(error) {
+        alert(error);
+    });
+    }
+
+    function dataschrijven() {
+
+
+        return dataschrijen()
+    }
+
+</script>

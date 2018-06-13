@@ -1,0 +1,19 @@
+{% extends "template.html" %}
+{% block body %}
+    <h1>data</h1>
+{#    <table class="table table-black">#}
+{#        {{ data }}#}
+{#    </table>#}
+    <table class="table table-black">
+        {% for elke_fail in data %}
+            {% for col in cols %}
+                <tb> cols[0]</tb>
+            {% endfor %}
+            <tr>
+                {%  for elk_gegeven in elke_fail %}
+                <td>{{ elk_gegeven }}</td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}

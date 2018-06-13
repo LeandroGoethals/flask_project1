@@ -1,0 +1,14 @@
+{% extends "header.html" %}
+{% block body %}
+    <h1>data</h1>
+    <table>
+        {% for webshop in data %}
+            <tr>
+                {%  for elk_gegeven in webshop %}
+                <td>{{ elk_gegeven }}</td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
+    </table>
+    {{ data }}
+{% endblock %}

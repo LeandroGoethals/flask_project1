@@ -1,0 +1,1496 @@
+[
+ {
+   "planeet": "Aarde",
+   "maannaam": "Moon (or Luna)",
+   "jaar_ontdekking": "-",
+   "ontdekker": "-",
+   "afstand_planeet": 384400,
+   "diameter_km": "3476",
+   "omlooptijd": "27322"
+ },
+ {
+   "planeet": "Mars",
+   "maannaam": "Deimos",
+   "jaar_ontdekking": "1877",
+   "ontdekker": "A. Hall",
+   "afstand_planeet": 23460,
+   "diameter_km": "8",
+   "omlooptijd": "1263"
+ },
+ {
+   "planeet": "Mars",
+   "maannaam": "Phobos",
+   "jaar_ontdekking": "1877",
+   "ontdekker": "A. Hall",
+   "afstand_planeet": 9270,
+   "diameter_km": "28",
+   "omlooptijd": "0.319"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Adrastea",
+   "jaar_ontdekking": "1979",
+   "ontdekker": "Jewitt & Danielson",
+   "afstand_planeet": 128980,
+   "diameter_km": "26",
+   "omlooptijd": "0.298"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Aitne",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 23547000,
+   "diameter_km": "3",
+   "omlooptijd": "736"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Amalthea",
+   "jaar_ontdekking": "1892",
+   "ontdekker": "E. Barnard",
+   "afstand_planeet": 181300,
+   "diameter_km": "262",
+   "omlooptijd": "0.498"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Ananke",
+   "jaar_ontdekking": "1951",
+   "ontdekker": "S. Nicholson",
+   "afstand_planeet": 21200000,
+   "diameter_km": "20",
+   "omlooptijd": "631"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Aoede",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 23807655,
+   "diameter_km": "4",
+   "omlooptijd": "748.8"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Arche",
+   "jaar_ontdekking": "2002",
+   "ontdekker": "S. Sheppard",
+   "afstand_planeet": 23064000,
+   "diameter_km": "3",
+   "omlooptijd": "715.6"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Autonoe",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 24122000,
+   "diameter_km": "4",
+   "omlooptijd": "753"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Callisto",
+   "jaar_ontdekking": "1610",
+   "ontdekker": "Galileo",
+   "afstand_planeet": 1883000,
+   "diameter_km": "4,8",
+   "omlooptijd": "16689"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Carme",
+   "jaar_ontdekking": "1938",
+   "ontdekker": "S. Nicholson",
+   "afstand_planeet": 22600000,
+   "diameter_km": "30",
+   "omlooptijd": "692"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Callirrhoe",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Minor Planet Center Minor Planet Center",
+   "afstand_planeet": 24200000,
+   "diameter_km": "10",
+   "omlooptijd": "774"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Carpo",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 17100000,
+   "diameter_km": "3",
+   "omlooptijd": "456.5"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Chaldene",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 23179000,
+   "diameter_km": "3.8",
+   "omlooptijd": "741"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Cyllene",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 24000000,
+   "diameter_km": "2",
+   "omlooptijd": "737.8"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Elara",
+   "jaar_ontdekking": "1905",
+   "ontdekker": "C. Perrine",
+   "afstand_planeet": 11737000,
+   "diameter_km": "80",
+   "omlooptijd": "259.65"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Erinome",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 23279000,
+   "diameter_km": "3.2",
+   "omlooptijd": "672"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Euanthe",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 21017000,
+   "diameter_km": "3",
+   "omlooptijd": "622"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Eukelade",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 24557295,
+   "diameter_km": "4",
+   "omlooptijd": "746.4"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Euporie",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 19394000,
+   "diameter_km": "2",
+   "omlooptijd": "534"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Europa",
+   "jaar_ontdekking": "1610",
+   "ontdekker": "Galileo",
+   "afstand_planeet": 670900,
+   "diameter_km": "3126",
+   "omlooptijd": "3551"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Eurydome",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 23219000,
+   "diameter_km": "3",
+   "omlooptijd": "713"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Ganymede",
+   "jaar_ontdekking": "1610",
+   "ontdekker": "Galileo",
+   "afstand_planeet": 1070000,
+   "diameter_km": "5276",
+   "omlooptijd": "7155"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Harpalyke",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 21105000,
+   "diameter_km": "4.3",
+   "omlooptijd": "595"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Hegemone",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 24514095,
+   "diameter_km": "3",
+   "omlooptijd": "781.6"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Helike",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 10972830,
+   "diameter_km": "4",
+   "omlooptijd": "233.8"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Hermippe",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 21252000,
+   "diameter_km": "4",
+   "omlooptijd": "630"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Himalia",
+   "jaar_ontdekking": "1904",
+   "ontdekker": "C. Perrine",
+   "afstand_planeet": 11480000,
+   "diameter_km": "170",
+   "omlooptijd": "250.57"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Io",
+   "jaar_ontdekking": "1610",
+   "ontdekker": "Galileo",
+   "afstand_planeet": 421600,
+   "diameter_km": "3,629",
+   "omlooptijd": "1769"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Iocaste",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 21269000,
+   "diameter_km": "5.2",
+   "omlooptijd": "657"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Isonone",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 23217000,
+   "diameter_km": "3.8",
+   "omlooptijd": "712"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Kale",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 23124000,
+   "diameter_km": "2",
+   "omlooptijd": "609"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Kallichore",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 22395390,
+   "diameter_km": "2",
+   "omlooptijd": "683.0"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Kalyke",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 23583000,
+   "diameter_km": "5.2",
+   "omlooptijd": "760"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Kore",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 24543000,
+   "diameter_km": "2",
+   "omlooptijd": "779.2"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Leda",
+   "jaar_ontdekking": "1974",
+   "ontdekker": "C. Kowal",
+   "afstand_planeet": 11094000,
+   "diameter_km": "10",
+   "omlooptijd": "238.72"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Lysithea",
+   "jaar_ontdekking": "1938",
+   "ontdekker": "S. Nicholson",
+   "afstand_planeet": 11720000,
+   "diameter_km": "24",
+   "omlooptijd": "259.22"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Magaclite",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 23806000,
+   "diameter_km": "5.4",
+   "omlooptijd": "771"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Metis",
+   "jaar_ontdekking": "1979",
+   "ontdekker": "S. Sunnott",
+   "afstand_planeet": 127960,
+   "diameter_km": "40",
+   "omlooptijd": "0.295"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Mneme",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "Scott S. Sheppard & B. Gladman",
+   "afstand_planeet": 21069000,
+   "diameter_km": "2",
+   "omlooptijd": "620.04"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Orthosie",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 21168000,
+   "diameter_km": "2",
+   "omlooptijd": "617"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Pasiphae",
+   "jaar_ontdekking": "1908",
+   "ontdekker": "P. Melotte",
+   "afstand_planeet": 23500000,
+   "diameter_km": "36",
+   "omlooptijd": "735"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Pasithee",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 23029000,
+   "diameter_km": "2",
+   "omlooptijd": "715"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Praxidike",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 21147000,
+   "diameter_km": "6.8",
+   "omlooptijd": "632"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Sinope",
+   "jaar_ontdekking": "1914",
+   "ontdekker": "S. Nicholson",
+   "afstand_planeet": 23700700,
+   "diameter_km": "28",
+   "omlooptijd": "758"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Sponde",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 23808000,
+   "diameter_km": "2",
+   "omlooptijd": "732"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2000 J11",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 12555000,
+   "diameter_km": "4.0",
+   "omlooptijd": "284.3"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J2",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 28570410,
+   "diameter_km": "2",
+   "omlooptijd": "982.5"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J3",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 18339885,
+   "diameter_km": "2",
+   "omlooptijd": "504.0"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J4",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 23257920,
+   "diameter_km": "2",
+   "omlooptijd": "723.2"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J5",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 24084180,
+   "diameter_km": "4",
+   "omlooptijd": "759.7"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J9",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 22441680,
+   "diameter_km": "1",
+   "omlooptijd": "683.0"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J10",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 24249600,
+   "diameter_km": "2",
+   "omlooptijd": "767.0"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J12",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 19002480,
+   "diameter_km": "1",
+   "omlooptijd": "533.3"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J15",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 22000000,
+   "diameter_km": "2",
+   "omlooptijd": "668.4"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J16",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 21000000,
+   "diameter_km": "2",
+   "omlooptijd": "595.4"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J17",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 22000000,
+   "diameter_km": "2",
+   "omlooptijd": "690.3"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J18",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 20700000,
+   "diameter_km": "2",
+   "omlooptijd": "606.3"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J19",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 22800000,
+   "diameter_km": "2",
+   "omlooptijd": "701.3"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "S/2003 J 23",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "Scott S. Sheppard",
+   "afstand_planeet": 23563000,
+   "diameter_km": "2",
+   "omlooptijd": "732.44"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Taygete",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "S. Sheppard, D. Jewitt, Y. Fernandez, & G. Magnier",
+   "afstand_planeet": 23360000,
+   "diameter_km": "5.0",
+   "omlooptijd": "687"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Thebe",
+   "jaar_ontdekking": "1979",
+   "ontdekker": "S. Synnott",
+   "afstand_planeet": 221900,
+   "diameter_km": "100",
+   "omlooptijd": "0.675"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Thelxinoe",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "Scott S. Sheppard & B. Gladman",
+   "afstand_planeet": 21162000,
+   "diameter_km": "2",
+   "omlooptijd": "628.09"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Themisto",
+   "jaar_ontdekking": "1975",
+   "ontdekker": "C. Kowal & E. Roemer",
+   "afstand_planeet": 7507000,
+   "diameter_km": "8",
+   "omlooptijd": "130.07"
+ },
+ {
+   "planeet": "Jupiter",
+   "maannaam": "Thyone",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "S. Sheppard, D. Jewitt, & J. Kleyna",
+   "afstand_planeet": 21312000,
+   "diameter_km": "4",
+   "omlooptijd": "615"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Aegir",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 20735000,
+   "diameter_km": "6",
+   "omlooptijd": "1116.5"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Albiorix",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Gladman et al.",
+   "afstand_planeet": 16392000,
+   "diameter_km": "30",
+   "omlooptijd": "783"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Anthe",
+   "jaar_ontdekking": "2004",
+   "ontdekker": "Cassini Imaging Team",
+   "afstand_planeet": 197700,
+   "diameter_km": "1",
+   "omlooptijd": "1.04"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Atlas",
+   "jaar_ontdekking": "1980",
+   "ontdekker": "R. Terrile",
+   "afstand_planeet": 137640,
+   "diameter_km": "37",
+   "omlooptijd": "0.602"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Bebhionn",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 17119000,
+   "diameter_km": "6",
+   "omlooptijd": "834.8"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Bergelmir",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 19338000,
+   "diameter_km": "6",
+   "omlooptijd": "1,005.9"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Bestla",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 20129000,
+   "diameter_km": "7",
+   "omlooptijd": "1,083.6"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Calypso",
+   "jaar_ontdekking": "1980",
+   "ontdekker": "B. Smith",
+   "afstand_planeet": 294660,
+   "diameter_km": "30",
+   "omlooptijd": "1888"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Daphnis",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "Cassini Imaging Science Team",
+   "afstand_planeet": 136500,
+   "diameter_km": "7",
+   "omlooptijd": "0.594"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Dione",
+   "jaar_ontdekking": "1684",
+   "ontdekker": "G. Cassini",
+   "afstand_planeet": 377400,
+   "diameter_km": "1120",
+   "omlooptijd": "2737"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Enceladus",
+   "jaar_ontdekking": "1789",
+   "ontdekker": "W. Herschel",
+   "afstand_planeet": 238020,
+   "diameter_km": "498",
+   "omlooptijd": "1370"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Epimetheus",
+   "jaar_ontdekking": "1966",
+   "ontdekker": "R. Walker",
+   "afstand_planeet": 151422,
+   "diameter_km": "138",
+   "omlooptijd": "0.694"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Erriapo",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 17611000,
+   "diameter_km": "10",
+   "omlooptijd": "871.17"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Farbauti",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 20390000,
+   "diameter_km": "5",
+   "omlooptijd": "1,086.1"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Fenrir",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 22453000,
+   "diameter_km": "4",
+   "omlooptijd": "1,260.3"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Fornjot",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 25108000,
+   "diameter_km": "6",
+   "omlooptijd": "1,490.9"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Greip",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 18206000,
+   "diameter_km": "6",
+   "omlooptijd": "921.2"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Hati",
+   "jaar_ontdekking": "2005",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 19856000,
+   "diameter_km": "6",
+   "omlooptijd": "1,038.7"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Helene",
+   "jaar_ontdekking": "1980",
+   "ontdekker": "Laques & Lecacheux",
+   "afstand_planeet": 377400,
+   "diameter_km": "36",
+   "omlooptijd": "2737"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Hyperion",
+   "jaar_ontdekking": "1848",
+   "ontdekker": "W. Bond",
+   "afstand_planeet": 1481000,
+   "diameter_km": "360",
+   "omlooptijd": "21277"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Hyrokkin",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 18437000,
+   "diameter_km": "8",
+   "omlooptijd": "931.8"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Iapetus",
+   "jaar_ontdekking": "1671",
+   "ontdekker": "G. Cassini",
+   "afstand_planeet": 3561300,
+   "diameter_km": "1436",
+   "omlooptijd": "793215"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Ijiraq",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 11440000,
+   "diameter_km": "14",
+   "omlooptijd": "451.48"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Janus",
+   "jaar_ontdekking": "1966",
+   "ontdekker": "A. Dollfus",
+   "afstand_planeet": 151472,
+   "diameter_km": "190",
+   "omlooptijd": "0.695"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Jarnsaxa",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 18811000,
+   "diameter_km": "6",
+   "omlooptijd": "964.7"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Kari",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 22118000,
+   "diameter_km": "7",
+   "omlooptijd": "1,233.6"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Kiviuq",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 11365000,
+   "diameter_km": "17",
+   "omlooptijd": "449.22"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Loge",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 23065000,
+   "diameter_km": "6",
+   "omlooptijd": "1,312.0"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Methone",
+   "jaar_ontdekking": "2004",
+   "ontdekker": "C.C. Porco et al./Cassini",
+   "afstand_planeet": 194000,
+   "diameter_km": "3",
+   "omlooptijd": "1.01"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Mimas",
+   "jaar_ontdekking": "1789",
+   "ontdekker": "W. Herschel",
+   "afstand_planeet": 185520,
+   "diameter_km": "398",
+   "omlooptijd": "0.942"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Mundilfari",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 18709000,
+   "diameter_km": "7",
+   "omlooptijd": "951.38"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Narvi",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "Scott S. Sheppard, David Jewitt, and Jan Kleyna",
+   "afstand_planeet": 18719000,
+   "diameter_km": "8",
+   "omlooptijd": "956.2"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Paaliaq",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 15199000,
+   "diameter_km": "25",
+   "omlooptijd": "686.92"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Pallene",
+   "jaar_ontdekking": "2004",
+   "ontdekker": "C.C. Porco et al./Cassini",
+   "afstand_planeet": 211000,
+   "diameter_km": "4",
+   "omlooptijd": "1.14"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Pan",
+   "jaar_ontdekking": "1990",
+   "ontdekker": "M. Showalter",
+   "afstand_planeet": 133630,
+   "diameter_km": "19.32",
+   "omlooptijd": "0.5750"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Pandora",
+   "jaar_ontdekking": "1980",
+   "ontdekker": "S. Collins",
+   "afstand_planeet": 141700,
+   "diameter_km": "110",
+   "omlooptijd": "0.629"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Phoebe",
+   "jaar_ontdekking": "1898",
+   "ontdekker": "W. Pickering",
+   "afstand_planeet": 12952000,
+   "diameter_km": "220",
+   "omlooptijd": "550.48"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Polydeuces",
+   "jaar_ontdekking": "2004",
+   "ontdekker": "C.C. Porco et al./Cassini",
+   "afstand_planeet": 377400,
+   "diameter_km": "4",
+   "omlooptijd": "2.74"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Prometheus",
+   "jaar_ontdekking": "1980",
+   "ontdekker": "S. Collins",
+   "afstand_planeet": 139350,
+   "diameter_km": "148",
+   "omlooptijd": "0.613"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Rhea",
+   "jaar_ontdekking": "1672",
+   "ontdekker": "G. Cassini",
+   "afstand_planeet": 527040,
+   "diameter_km": "1528",
+   "omlooptijd": "4518"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Siarnaq",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 18160000,
+   "diameter_km": "45",
+   "omlooptijd": "893.07"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Skathi",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 15645000,
+   "diameter_km": "8",
+   "omlooptijd": "728.93"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Skoll",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 17665000,
+   "diameter_km": "6",
+   "omlooptijd": "878.3"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Surtur",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 22707000,
+   "diameter_km": "6",
+   "omlooptijd": "1,297.7"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Suttungr",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Gladman et al.",
+   "afstand_planeet": 19470000,
+   "diameter_km": "7",
+   "omlooptijd": "1016.8"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "S/2004 S07",
+   "jaar_ontdekking": "2004",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 19800000,
+   "diameter_km": "6",
+   "omlooptijd": "1,103"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "S/2004 S12",
+   "jaar_ontdekking": "2004",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 19650000,
+   "diameter_km": "5",
+   "omlooptijd": "1,048"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "S/2004 S13",
+   "jaar_ontdekking": "2004",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 18450000,
+   "diameter_km": "6",
+   "omlooptijd": "906"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "S/2004 S17",
+   "jaar_ontdekking": "2004",
+   "ontdekker": "D. Jewitt, S. Sheppard, J. Kleyna",
+   "afstand_planeet": 18600000,
+   "diameter_km": "4",
+   "omlooptijd": "986"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "S/2006 S1",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 18981135,
+   "diameter_km": "6",
+   "omlooptijd": "970"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "S/2006 S3",
+   "jaar_ontdekking": "2006",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 21132000,
+   "diameter_km": "6",
+   "omlooptijd": "1,142"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "S/2007 S2",
+   "jaar_ontdekking": "2007",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 16560000,
+   "diameter_km": "6",
+   "omlooptijd": "800"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "S/2007 S3",
+   "jaar_ontdekking": "2007",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 20518500,
+   "diameter_km": "5",
+   "omlooptijd": "1,1"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Tarqeq",
+   "jaar_ontdekking": "2007",
+   "ontdekker": "S. Sheppard, D. Jewitt, J. Kleyna",
+   "afstand_planeet": 18009000,
+   "diameter_km": "7",
+   "omlooptijd": "887.5"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Tarvos",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 18239000,
+   "diameter_km": "16",
+   "omlooptijd": "925.70"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Telesto",
+   "jaar_ontdekking": "1980",
+   "ontdekker": "B. Smith",
+   "afstand_planeet": 294660,
+   "diameter_km": "30",
+   "omlooptijd": "1888"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Tethys",
+   "jaar_ontdekking": "1684",
+   "ontdekker": "G. Cassini",
+   "afstand_planeet": 294660,
+   "diameter_km": "1060",
+   "omlooptijd": "1888"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Thrymr",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 20470000,
+   "diameter_km": "7",
+   "omlooptijd": "1088.89"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Titan",
+   "jaar_ontdekking": "1655",
+   "ontdekker": "C. Huygens",
+   "afstand_planeet": 1221850,
+   "diameter_km": "5150",
+   "omlooptijd": "15945"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Ymir",
+   "jaar_ontdekking": "2000",
+   "ontdekker": "Intl. Team of 8 Astronomers",
+   "afstand_planeet": 23096000,
+   "diameter_km": "20",
+   "omlooptijd": "1312.37"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Ariel",
+   "jaar_ontdekking": "1851",
+   "ontdekker": "W. Lassell",
+   "afstand_planeet": 191240,
+   "diameter_km": "1160",
+   "omlooptijd": "2520"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Belinda",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 75260,
+   "diameter_km": "66",
+   "omlooptijd": "0.624"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Bianca",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 75260,
+   "diameter_km": "42",
+   "omlooptijd": "0.433"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Caliban",
+   "jaar_ontdekking": "1997",
+   "ontdekker": "Gladman, Nicholson, Burns, & Kavelaars",
+   "afstand_planeet": 7200000,
+   "diameter_km": "80",
+   "omlooptijd": "579.5"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Cordelia",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 49750,
+   "diameter_km": "26",
+   "omlooptijd": "0.335"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Cressida",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 61770,
+   "diameter_km": "62",
+   "omlooptijd": "0.464"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Cupid",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "M. Showalter & J. Lissauer",
+   "afstand_planeet": 74800,
+   "diameter_km": "12",
+   "omlooptijd": "0.618"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Desdemona",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 62660,
+   "diameter_km": "54",
+   "omlooptijd": "0.474"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Ferdinand",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "M. Holman & B. Gladman et al",
+   "afstand_planeet": 20901000,
+   "diameter_km": "21",
+   "omlooptijd": "2,823.4"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Francisco",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "M. Holman & B. Gladman et al",
+   "afstand_planeet": 4276000,
+   "diameter_km": "22",
+   "omlooptijd": "266.6"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Juliet",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 64360,
+   "diameter_km": "84",
+   "omlooptijd": "0.493"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Mab",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "M. Showalter & J. Lissauer",
+   "afstand_planeet": 97734,
+   "diameter_km": "16",
+   "omlooptijd": "0.923"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Margaret",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "S. Sheppard",
+   "afstand_planeet": 14688700,
+   "diameter_km": "11",
+   "omlooptijd": "1,694.8"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Miranda",
+   "jaar_ontdekking": "1948",
+   "ontdekker": "G. Kuiper",
+   "afstand_planeet": 129780,
+   "diameter_km": "472",
+   "omlooptijd": "1414"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Oberon",
+   "jaar_ontdekking": "1787",
+   "ontdekker": "W. Herschel",
+   "afstand_planeet": 582600,
+   "diameter_km": "1526",
+   "omlooptijd": "13463"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Ophelia",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 53440,
+   "diameter_km": "30.4",
+   "omlooptijd": "0.3764"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Perdita",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "E. Karkoschka/Voyager 2",
+   "afstand_planeet": 76420,
+   "diameter_km": "20",
+   "omlooptijd": "0.638"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Portia",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 66085,
+   "diameter_km": "108",
+   "omlooptijd": "0.513"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Prospero",
+   "jaar_ontdekking": "1999",
+   "ontdekker": "Kavelaars, Gladman, Holman et al",
+   "afstand_planeet": 16256000,
+   "diameter_km": "30",
+   "omlooptijd": "5346"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Puck",
+   "jaar_ontdekking": "1985",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 86010,
+   "diameter_km": "154",
+   "omlooptijd": "0.762"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Rosalind",
+   "jaar_ontdekking": "1986",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 69941,
+   "diameter_km": "54",
+   "omlooptijd": "0.558"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Setebos",
+   "jaar_ontdekking": "1999",
+   "ontdekker": "Kavelaars, Gladman, Holman et al",
+   "afstand_planeet": 17418000,
+   "diameter_km": "47",
+   "omlooptijd": "2,234.8"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Stephano",
+   "jaar_ontdekking": "1999",
+   "ontdekker": "Kavelaars, Gladman, Holman et al",
+   "afstand_planeet": 8004000,
+   "diameter_km": "32",
+   "omlooptijd": "677.4"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Sycorax",
+   "jaar_ontdekking": "1997",
+   "ontdekker": "Gladman, Nicholson, Burns, & Kavelaars",
+   "afstand_planeet": 12200000,
+   "diameter_km": "160",
+   "omlooptijd": "1283.39"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Titania",
+   "jaar_ontdekking": "1787",
+   "ontdekker": "W. Herschel",
+   "afstand_planeet": 435840,
+   "diameter_km": "1,578",
+   "omlooptijd": "8706"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Trinculo",
+   "jaar_ontdekking": "2001",
+   "ontdekker": "M. Holman, J. Kavelaars & D. Milisavljevic",
+   "afstand_planeet": 8578000,
+   "diameter_km": "10",
+   "omlooptijd": "759.0"
+ },
+ {
+   "planeet": "Uranus",
+   "maannaam": "Umbriel",
+   "jaar_ontdekking": "1851",
+   "ontdekker": "W. Lassel",
+   "afstand_planeet": 265970,
+   "diameter_km": "1190",
+   "omlooptijd": "4144"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Despina",
+   "jaar_ontdekking": "1989",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 62000,
+   "diameter_km": "160",
+   "omlooptijd": "0.40"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Galatea",
+   "jaar_ontdekking": "1989",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 52500,
+   "diameter_km": "140",
+   "omlooptijd": "0.33"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Halimede",
+   "jaar_ontdekking": "2002",
+   "ontdekker": "M. Holman & J.J. Kavelaars",
+   "afstand_planeet": 15686000,
+   "diameter_km": "60",
+   "omlooptijd": "1,874.83"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Larissa",
+   "jaar_ontdekking": "1989",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 73600,
+   "diameter_km": "200",
+   "omlooptijd": "0.56"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Laomedeia",
+   "jaar_ontdekking": "2002",
+   "ontdekker": "M. Holman & J.J. Kavelaars",
+   "afstand_planeet": 22613200,
+   "diameter_km": "38",
+   "omlooptijd": "2,980.4"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Naiad",
+   "jaar_ontdekking": "1989",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 48200,
+   "diameter_km": "50",
+   "omlooptijd": "0.30"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Nereid",
+   "jaar_ontdekking": "1949",
+   "ontdekker": "G. Kuiper",
+   "afstand_planeet": 5513400,
+   "diameter_km": "340",
+   "omlooptijd": "360.16"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Neso",
+   "jaar_ontdekking": "2002",
+   "ontdekker": "Holman & Gladman et al",
+   "afstand_planeet": 47279670,
+   "diameter_km": "60",
+   "omlooptijd": "9,007.1"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Proteus",
+   "jaar_ontdekking": "1989",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 117600,
+   "diameter_km": "420",
+   "omlooptijd": "1.12"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Psamathe",
+   "jaar_ontdekking": "2003",
+   "ontdekker": "D. Jewitt, J. Kleyna & S. Sheppard",
+   "afstand_planeet": 46738000,
+   "diameter_km": "38",
+   "omlooptijd": "9,136.11"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Sao",
+   "jaar_ontdekking": "2002",
+   "ontdekker": "M. Holman & J.J. Kavelaars",
+   "afstand_planeet": 22337190,
+   "diameter_km": "38",
+   "omlooptijd": "2,925.6"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Thalassa",
+   "jaar_ontdekking": "1989",
+   "ontdekker": "Voyager 2",
+   "afstand_planeet": 50000,
+   "diameter_km": "90",
+   "omlooptijd": "0.31"
+ },
+ {
+   "planeet": "Saturnus",
+   "maannaam": "Triton",
+   "jaar_ontdekking": "1846",
+   "ontdekker": "W. Lassel",
+   "afstand_planeet": 354800,
+   "diameter_km": "2705",
+   "omlooptijd": "5877"
+ }
+]
